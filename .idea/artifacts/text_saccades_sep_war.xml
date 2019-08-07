@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="text-saccades-sep:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="text-saccades-sep.war">
-      <element id="artifact" artifact-name="text-saccades-sep:war exploded" />
-    </root>
-  </artifact>
-</component>
